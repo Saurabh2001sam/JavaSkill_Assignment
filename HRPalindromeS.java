@@ -14,5 +14,6 @@ public class HRPalindromeS {
         }else{
             System.out.println("No");
         }
+        sc.close();
     }
 }
